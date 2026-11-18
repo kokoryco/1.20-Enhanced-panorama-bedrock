@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Render distance ++ and ultra detailed shader",
+        "name": "1.20 Enhanced panorama",
+        "uuid": "d60b3f21-42c1-4524-b23c-c2cb7bed3987",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Render distance ++ and ultra detailed shader",
+            "type": "resources",
+            "uuid": "b1d50fa6-66d9-4010-b420-4bc497b1208c",
+            "version": [0, 0, 1]
+        }
+    ]
+}
