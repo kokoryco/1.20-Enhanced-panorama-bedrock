@@ -6,6 +6,6 @@ Simply download the content as a .zip file, then—after making your modificatio
 
 You'll notice that this pack won't import if you've already imported it into your game. To change this, you'll need to go to a [UUID v4 generation website](https://www.uuidgenerator.net/). Generate your UUID, then replace the UUID on line 6 in the manifest.json file. Next, generate another UUID and do the same with line 14. Recompress the files into a .zip file, then rename it to .mcpack (also rename the .mcpack file so you can easily identify it).
 
-# Pack.png et pack_icon.png
+# Pack.png and pack_icon.png
 
 pack.png and pack_icon.png are similar, but they appear in different locations within the pack. If you wish to modify them, I recommend using a resolution such as 64x64 or 256x256 and using the same image for both files.
